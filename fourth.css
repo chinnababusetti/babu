@@ -1,0 +1,101 @@
+body{
+    background-image: url(orange2.jpg);
+}
+
+
+.one{
+    background-color:rgba(0,0,0,.8);
+    width: 70vw;
+    height: 70vh;
+    margin: 150px 250px;
+    position: relative;
+    
+}
+.two{
+    background-color: orange;
+    width: 70%;
+    height: 12%;
+}
+.three{
+   
+    background-color:rgba(0, 0,0, .8);
+    width: 30%;
+    height: 12%;
+    display: inline;
+    position: absolute;
+    margin-left:730px;
+    margin-top:  -62px;
+    border-radius: 10px;
+
+}
+.four{
+    border: 3px solid orange;
+    width: 30%;
+    height: 70%;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.five{
+    border: 3px solid rgb(245, 127, 9);
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    margin-left: 400px;
+    margin-top:40px ;
+    border-radius: 10px;
+}
+.six{
+    background-color: orange;
+    width: 5%;
+    height: 40%;
+    position: absolute;
+    margin-left: 990px;
+    margin-top: 249px;
+}
+.a{
+    margin: 27px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.b{
+    color: white;
+    margin: 20px;
+    cursor: pointer;
+}
+.c{
+    margin-left: 70px;
+    margin-top: 2px;
+    color: white;
+}
+.d{
+    margin: 40px;
+    color: orange;
+}
+.e{
+    margin: 10px;
+    color: white;
+}
+.f{
+    margin: 10px;
+    cursor: pointer;
+
+}
+.g{
+    margin-left: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    color:rgba(255,255,255,0.5);
+}
+.g:hover{
+    color: rgba(255,255,255,1);
+
+}
+.h{
+    margin-left: 50px;
+}
+.i{
+    margin-left: 50px;
+}
