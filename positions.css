@@ -1,0 +1,141 @@
+body{
+    background-color:rgba(0,0,0,.8);
+}
+
+.one{
+    width: 100vw;
+    height: 20px;
+    position: relative;
+}
+ul li{
+    list-style-type:none;
+}
+ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color:white;
+
+}
+.a{
+    position: absolute;
+    margin-left: 500px;
+
+}
+.b{
+    position: absolute;
+    margin-left: 600px;
+}
+.c{
+    position: absolute;
+    margin-left: 700px;
+}
+.d{
+    position: absolute;
+    margin-left: 800px;
+}
+.e{
+    position: absolute;
+    margin-left: 900px;
+}
+.f{
+    position: absolute;
+    font-size: 30px;
+}
+.g{
+    position: absolute;
+    margin-left: 1200px;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.h{
+    position: absolute;
+    margin-left: 1370px;
+    background-color: orange;
+    height: 25px;
+    cursor: pointer;
+}
+.two{
+    background-color:rgba(0,0,0,.1);
+    color: white;
+    width: 50vw;
+    height: 100vh;
+    margin-left: 40px;
+    position: relative;
+}
+.i{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 39%;
+    font-size: 30px;
+
+}
+.j{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 44%;
+    color: orange;
+
+}
+.k{
+    position: absolute;
+    margin-left: 100px;
+    margin-top:50% ;
+}
+.l{
+    background-color: rgb(207, 92, 16);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 60%;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.three{
+    background-color: pink;
+    width: 40vw;
+    height: 100vh;
+    margin-left: 70px;
+    float: right;
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 80px;
+    position: relative;
+    background-color: black;
+    
+}
+.m{
+    margin-left: 45%;
+    margin-top: 80px;
+    text-decoration: underline;
+    color: orange;
+}
+.n{
+    margin-left: 40%;
+
+}
+.o{
+    margin-left: 40%;
+}
+.p{
+    margin-left: 50%;
+    border: 2px solid black;
+}
+.q{
+    margin-left: 40%;
+    color: white;
+}
+.r{
+    margin-left: 47%;
+    text-decoration: none;
+    color: orange;
+}
+.s{
+    margin-left: 49%;
+    color: white;
+}
+.t{
+    position: absolute;
+    margin-left: 110px;
+    margin-top:63% ;
+    font-size: 30px;
+}
